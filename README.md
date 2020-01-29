@@ -9,5 +9,5 @@ Essentially, the iOS app version is simply a link to the url of the actual onlin
 TBH it's basically just the same as opening up safari/chrome on your phone and going to the URL... only difference is that you don't have to type in the URL.
 
 If it's not working for you, there are likely two reasons:
-1) The URL of the app has been changed, and the iOS app needs a new release (where the URL is updated)
+1) The online URL of the app has been changed, and the iOS app needs a new release (in which the URL is updated)
 2) The actual app itself isn't working. You can check this by just going to the url.
